@@ -26,9 +26,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
