@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
