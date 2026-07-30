@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0258-add-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
