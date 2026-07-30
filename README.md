@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
