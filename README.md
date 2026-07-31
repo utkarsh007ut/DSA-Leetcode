@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
