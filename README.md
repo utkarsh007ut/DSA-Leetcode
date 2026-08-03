@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
