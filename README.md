@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0877-stone-game) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -84,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
