@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1089-duplicate-zeros](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [1089-duplicate-zeros](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 ## Stack
 |  |
 | ------- |
