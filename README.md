@@ -134,4 +134,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
