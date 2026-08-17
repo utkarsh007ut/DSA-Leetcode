@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
