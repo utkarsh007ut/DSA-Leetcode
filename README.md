@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0048-rotate-image) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0344-reverse-string) |
