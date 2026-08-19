@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 ## Stack
