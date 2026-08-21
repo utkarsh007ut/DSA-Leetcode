@@ -5,14 +5,11 @@ public:
         int left=0;
         int water=0;
         while(left<right){
-            int width=right-left;
-            int length=min(height[left],height[right]);
-            int area=length*width;
+            int area=min(height[left],height[right]) * (right-left);
 
             water=max(area,water);
 
-            if(height[left]<height[right])
-            left++;
+            if(height[left]<height[right]) left++;
 
             else
             right--;
