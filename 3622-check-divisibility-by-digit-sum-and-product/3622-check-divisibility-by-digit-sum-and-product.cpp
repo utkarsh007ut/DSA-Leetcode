@@ -9,8 +9,6 @@ public:
         n/=10;
 
     }
-    t+=(s+m);
-
-    return (l%t==0);
+    t+=(s+m); return (l%t==0);
     }
 };
