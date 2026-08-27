@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
-        if (is_sorted(nums.begin(), nums.end()))
-            return true;
-        
-        else if(is_sorted(nums.begin(), nums.end(),greater<int>()))
-            return true;
-
-
-        return false;
+        int n = nums.size();
+        bool inc = true, dec = true;
+        for (int i = 1; i < n; i++) {
+            if (nums[i] > nums[i - 1]) {
+                dec = false;
+            }
+            if (nums[i] < nums[i - 1]) {
+                inc = false;
+            }
+        }
+        return inc || dec;
     }
 };
