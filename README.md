@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
