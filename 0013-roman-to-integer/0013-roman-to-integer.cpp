@@ -5,11 +5,11 @@ public:
             if(c=='I')
             return 1;
 
-            else if(c=='V')
-            return 5;
-
             else if(c=='X')
             return 10;
+
+            else if(c=='V')
+            return 5;
 
             else if(c=='L')
             return 50;
