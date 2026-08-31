@@ -7,6 +7,8 @@ public:
             //initializing both pointers
             int first=i,second=0;
             while(second<n){
+
+                //checking if characters are same
                 if(haystack[first]!=needle[second])
                 break;
 
