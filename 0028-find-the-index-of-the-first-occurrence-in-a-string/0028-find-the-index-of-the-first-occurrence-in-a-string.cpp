@@ -4,6 +4,7 @@ public:
         int h=haystack.size();
         int n=needle.size();
         for(int i=0;i<=h-n;i++){
+            //initializing both pointers
             int first=i,second=0;
             while(second<n){
                 if(haystack[first]!=needle[second])
