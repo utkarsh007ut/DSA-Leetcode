@@ -18,6 +18,7 @@ public:
                 second++;}
             }
 
+            //check if second is fully traversed
             if(second==n)
             return first-second;
         }
