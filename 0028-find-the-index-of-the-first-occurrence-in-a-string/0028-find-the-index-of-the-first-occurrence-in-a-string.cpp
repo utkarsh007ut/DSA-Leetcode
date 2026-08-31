@@ -12,6 +12,7 @@ public:
                 if(haystack[first]!=needle[second])
                 break;
 
+                //if yes increment the both
                 else{
                 first++;
                 second++;}
