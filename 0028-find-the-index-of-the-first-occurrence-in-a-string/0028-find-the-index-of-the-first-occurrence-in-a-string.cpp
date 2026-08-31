@@ -23,6 +23,7 @@ public:
             return first-second;
         }
 
+        //if not return -1
         return -1;
     }
 };
