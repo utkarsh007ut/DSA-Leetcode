@@ -7,15 +7,15 @@ public:
     }
 
     private:
-    void solve(int n,int o,int c,vector<string>& str,string s){
-        if(o==n && c==n){
+    void solve(int n,int open,int close,vector<string>& str,string s){
+        if(open==n && close==n){
             str.push_back(s);
         }
 
-        if(o<n)
-        solve(n,o+1,c,str,s+"(");
+        if(open<n)
+        solve(n,open+1,close,str,s+"(");
 
-        if(c<o)
-        solve(n,o,c+1,str,s+")");
+        if(close<open)
+        solve(n,open,close+1,str,s+")");
     }
 };
