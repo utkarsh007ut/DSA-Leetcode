@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/utkarsh007ut/DSA-Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
