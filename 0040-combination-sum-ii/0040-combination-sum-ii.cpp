@@ -1,14 +1,4 @@
 class Solution {
-public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> a;
-        sort(candidates.begin(),candidates.end());
-
-        solve(ans,candidates,a,target,0);
-
-        return ans;
-    }
 
 public:
     void solve(vector<vector<int>>& ans,vector<int>& candidates,vector<int>& a, int target,int j){
@@ -30,4 +20,17 @@ public:
             }
         }
     }
+    
+public:
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> a;
+        sort(candidates.begin(),candidates.end());
+
+        solve(ans,candidates,a,target,0);
+
+        return ans;
+    }
+
+
 };
