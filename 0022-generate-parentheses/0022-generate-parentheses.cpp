@@ -8,6 +8,8 @@ public:
 
     private:
      void solve(int n,int o,int c,vector<string>& str,string s){
+
+        
         if(o==n && c==n){
             str.push_back(s);
         }
