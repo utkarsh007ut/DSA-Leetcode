@@ -14,10 +14,10 @@ public:
             str.push_back(s);
         }
 
-        if(o<n)
-        solve(n,o+1,c,str,s+"(");
+        if(o<n){
+        solve(n,o+1,c,str,s+"(");}
 
-        if(c<o)
-        solve(n,o,c+1,str,s+")");
+        if(c<o){
+        solve(n,o,c+1,str,s+")");}
     }
 };
